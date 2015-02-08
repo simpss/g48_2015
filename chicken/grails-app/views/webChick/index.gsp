@@ -12,6 +12,6 @@
 </head>
 
 <body>
-<img src="/images/kanala/kanala_pilt.jpg" alt="pilt">
+<img src="/images/kanala_pilt.jpg" alt="pilt">
 </body>
 </html>
